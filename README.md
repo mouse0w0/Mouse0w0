@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mouse0w0&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Mouse0w0&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouse0w0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouse0w0&layout=compact&hide_border=true)
 
 <!--
 **Mouse0w0/Mouse0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
