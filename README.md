@@ -1,9 +1,9 @@
 ### Hi there 👋
 [![爱发电](https://img.shields.io/badge/%E8%B5%9E%E5%8A%A9-%E7%88%B1%E5%8F%91%E7%94%B5-936BE5)](https://afdian.net/@mouse)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouse0w0&layout=compact&hide_border=true&hide=html,css)
 
-<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mouse0w0&show_icons=true&hide_border=true&include_all_commits=true)
 
 **Mouse0w0/Mouse0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
